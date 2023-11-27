@@ -84,7 +84,7 @@ Description
 
 <div id="4-3-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="4-3" aria-labelledby="4-3-wrapper" name="4-3" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="733" class="confluence-ssr-app-1tsmohl"> &check; Use secure APIs instead of custom implementations</div>
+<div data-component="content" data-renderer-start-pos="733" class="confluence-ssr-app-1tsmohl"> &check; Use secure APIs instead of custom implementations(ORM libs escape sql satements,Javascript libs like React escape output data by default)  </div>
 
 </div>
 
