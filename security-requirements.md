@@ -18,9 +18,9 @@
 
 <tr>
 
-<td rowspan="1" colspan="1" style="background-color: rgb(233, 242, 255);" colorname="Light blue" data-colwidth="253" data-cell-background="#deebff">
+<td rowspan="1" colspan="1" style="background-color: rgb(233, 242, 255);" colorname="Light blue" data-colwidth="255" data-cell-background="#deebff">
 
-Control
+Secure By Design Principle
 
 </td>
 
