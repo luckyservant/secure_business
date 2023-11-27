@@ -434,7 +434,7 @@ Description
 
 <div id="23-28-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="23-28" aria-labelledby="23-28-wrapper" name="23-28" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3632" class="confluence-ssr-app-1tsmohl"> &check; Ensure consistency during exception handling by IO disposals (exp:closing connections), re-initialisation of variables to their stable state</div>
+<div data-component="content" data-renderer-start-pos="3632" class="confluence-ssr-app-1tsmohl"> &check; Ensure consistency during exception handling by returning resources(e.g: IO disposals (exp:closing connections), re-initialisation of variables to their stable state)</div>
 
 </div>
 
