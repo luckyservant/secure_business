@@ -60,7 +60,7 @@ Description
 
 <div id="2-1-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="2-1" aria-labelledby="2-1-wrapper" name="2-1" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="484" class="confluence-ssr-app-1tsmohl"><input type="checkbox">Do not disable/circumvent default security settings on configs or frameworks settings</div>
+<div data-component="content" data-renderer-start-pos="484" class="confluence-ssr-app-1tsmohl"><input type="checkbox"> &check; Do not disable/circumvent default security settings on configs or frameworks settings</div>
 
 </div>
 
@@ -70,7 +70,7 @@ Description
 
 <div id="3-2-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="3-2" aria-labelledby="3-2-wrapper" name="3-2" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="571" class="confluence-ssr-app-1tsmohl">Do not expose any publicly accessible resource which are not supposed to be so and make sure no config/debug/comments are in place in public facing prod systems</div>
+<div data-component="content" data-renderer-start-pos="571" class="confluence-ssr-app-1tsmohl"> &check; Do not expose any publicly accessible resource which are not supposed to be so and make sure no config/debug/comments are in place in public facing prod systems</div>
 
 </div>
 
@@ -80,7 +80,7 @@ Description
 
 <div id="4-3-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="4-3" aria-labelledby="4-3-wrapper" name="4-3" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="733" class="confluence-ssr-app-1tsmohl">Avoid over engineering, keep it simple</div>
+<div data-component="content" data-renderer-start-pos="733" class="confluence-ssr-app-1tsmohl"> &check; Avoid over engineering, keep it simple</div>
 
 </div>
 
@@ -110,7 +110,7 @@ Description
 
 <div id="5-4-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="5-4" aria-labelledby="5-4-wrapper" name="5-4" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="805" class="confluence-ssr-app-1tsmohl">Implement checks on each layer (frontend, backend, os, network) so that the compromise of a single security control does not result in compromise of the entire system</div>
+<div data-component="content" data-renderer-start-pos="805" class="confluence-ssr-app-1tsmohl"> &check;Implement checks on each layer (frontend, backend, os, network) so that the compromise of a single security control does not result in compromise of the entire system</div>
 
 </div>
 
@@ -120,7 +120,7 @@ Description
 
 <div id="6-5-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="6-5" aria-labelledby="6-5-wrapper" name="6-5" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="973" class="confluence-ssr-app-1tsmohl">Never mix input data with code statements (e.g: xss, sql injection vulns etc.)</div>
+<div data-component="content" data-renderer-start-pos="973" class="confluence-ssr-app-1tsmohl"> &check; Never mix input data with code statements (e.g: xss, sql injection vulns etc.)</div>
 
 </div>
 
@@ -130,7 +130,7 @@ Description
 
 <div id="7-6-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="7-6" aria-labelledby="7-6-wrapper" name="7-6" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1053" class="confluence-ssr-app-1tsmohl">Do not trust client/user, service supplied data and validate whenever possible within the “Zero Trust” context. Even data from our own resources (e.g db, files) are usual suspects</div>
+<div data-component="content" data-renderer-start-pos="1053" class="confluence-ssr-app-1tsmohl"> &check; Do not trust client/user, service supplied data and validate whenever possible within the “Zero Trust” context. Even data from our own resources (e.g db, files) are usual suspects</div>
 
 </div>
 
@@ -140,7 +140,7 @@ Description
 
 <div id="8-7-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="8-7" aria-labelledby="8-7-wrapper" name="8-7" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1234" class="confluence-ssr-app-1tsmohl">Notify Security team whenever integrating with 3rd party systems is needed</div>
+<div data-component="content" data-renderer-start-pos="1234" class="confluence-ssr-app-1tsmohl"> &check; Notify Security team whenever integrating with 3rd party systems is needed</div>
 
 </div>
 
@@ -150,7 +150,7 @@ Description
 
 <div id="9-8-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="9-8" aria-labelledby="9-8-wrapper" name="9-8" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1310" class="confluence-ssr-app-1tsmohl">Validate outputs when necessary before returning to calling entity. This technique is known as “Canary Check”</div>
+<div data-component="content" data-renderer-start-pos="1310" class="confluence-ssr-app-1tsmohl"> &check; Validate outputs when necessary before returning to calling entity. This technique is known as “Canary Check”</div>
 
 </div>
 
@@ -160,7 +160,7 @@ Description
 
 <div id="10-9-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="10-9" aria-labelledby="10-9-wrapper" name="10-9" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1421" class="confluence-ssr-app-1tsmohl">Notify CloudOps and Security teams when new service/ports are needed to be introduced</div>
+<div data-component="content" data-renderer-start-pos="1421" class="confluence-ssr-app-1tsmohl"> &check; Notify CloudOps and Security teams when new service/ports are needed to be introduced</div>
 
 </div>
 
@@ -170,7 +170,7 @@ Description
 
 <div id="11-10-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="11-10" aria-labelledby="11-10-wrapper" name="11-10" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1508" class="confluence-ssr-app-1tsmohl">Ensure integrity of application state with instruments such as CSRF tokens, HMAC codes, JWT tokens to prevent from input/state tampering</div>
+<div data-component="content" data-renderer-start-pos="1508" class="confluence-ssr-app-1tsmohl"> &check; Ensure integrity of application state with instruments such as CSRF tokens, HMAC codes, JWT tokens to prevent from input/state tampering</div>
 
 </div>
 
@@ -180,7 +180,7 @@ Description
 
 <div id="12-11-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="12-11" aria-labelledby="12-11-wrapper" name="12-11" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1646" class="confluence-ssr-app-1tsmohl">Identify features/code blocks that would introduce/alterbusiness Logic & flow and implement unit tests to cover risks</div>
+<div data-component="content" data-renderer-start-pos="1646" class="confluence-ssr-app-1tsmohl"> &check; Identify features/code blocks that would introduce/alterbusiness Logic & flow and implement unit tests to cover risks</div>
 
 </div>
 
@@ -190,7 +190,7 @@ Description
 
 <div id="13-12-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="13-12" aria-labelledby="13-12-wrapper" name="13-12" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1766" class="confluence-ssr-app-1tsmohl">Business critical implementations must be reviewed by security champs or security team respectively before merging. Please request recommendations from security team when the risk is not clear</div>
+<div data-component="content" data-renderer-start-pos="1766" class="confluence-ssr-app-1tsmohl"> &check; Business critical implementations must be reviewed by security champs or security team respectively before merging. Please request recommendations from security team when the risk is not clear</div>
 
 </div>
 
@@ -200,7 +200,7 @@ Description
 
 <div id="14-13-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="14-13" aria-labelledby="14-13-wrapper" name="14-13" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="1960" class="confluence-ssr-app-1tsmohl">Identify if the feature/application introduce new business logic that might be exploited if not properly validated (e.g., price calculations, eligibility checks)?</div>
+<div data-component="content" data-renderer-start-pos="1960" class="confluence-ssr-app-1tsmohl"> &check; Identify if the feature/application introduce new business logic that might be exploited if not properly validated (e.g., price calculations, eligibility checks)?</div>
 
 </div>
 
@@ -230,7 +230,7 @@ Description
 
 <div id="35-14-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="35-14" aria-labelledby="35-14-wrapper" name="35-14" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2161" class="confluence-ssr-app-1tsmohl">Identify and label sensitive data</div>
+<div data-component="content" data-renderer-start-pos="2161" class="confluence-ssr-app-1tsmohl"> &check; Identify and label sensitive data</div>
 
 </div>
 
@@ -240,7 +240,7 @@ Description
 
 <div id="36-15-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="36-15" aria-labelledby="36-15-wrapper" name="36-15" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2196" class="confluence-ssr-app-1tsmohl">Consider to avoid it if possible</div>
+<div data-component="content" data-renderer-start-pos="2196" class="confluence-ssr-app-1tsmohl"> &check; Consider to avoid it if possible</div>
 
 </div>
 
@@ -250,7 +250,7 @@ Description
 
 <div id="37-16-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="37-16" aria-labelledby="37-16-wrapper" name="37-16" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2230" class="confluence-ssr-app-1tsmohl">D Employ best fit cryptography (encryption, hashing, masking etc.) during processing and storing</div>
+<div data-component="content" data-renderer-start-pos="2230" class="confluence-ssr-app-1tsmohl"> &check; Employ best fit cryptography (encryption, hashing, masking etc.) during processing and storing</div>
 
 </div>
 
@@ -280,7 +280,7 @@ Description
 
 <div id="38-17-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="38-17" aria-labelledby="38-17-wrapper" name="38-17" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2393" class="confluence-ssr-app-1tsmohl">How will users prove who they are? You want to make sure that someone cannot spoof a legitimate user (authentication)</div>
+<div data-component="content" data-renderer-start-pos="2393" class="confluence-ssr-app-1tsmohl"> &check; How will users prove who they are? You want to make sure that someone cannot spoof a legitimate user (authentication)</div>
 
 </div>
 
@@ -290,7 +290,7 @@ Description
 
 <div id="39-18-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="39-18" aria-labelledby="39-18-wrapper" name="39-18" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2512" class="confluence-ssr-app-1tsmohl">Clearly identify and state **Who** should be allowed to access **What** resource</div>
+<div data-component="content" data-renderer-start-pos="2512" class="confluence-ssr-app-1tsmohl"> &check; Clearly identify and state **Who** should be allowed to access **What** resource</div>
 
 </div>
 
@@ -300,7 +300,7 @@ Description
 
 <div id="40-19-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="40-19" aria-labelledby="40-19-wrapper" name="40-19" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2586" class="confluence-ssr-app-1tsmohl">D Explicitly state publicly accessible resources</div>
+<div data-component="content" data-renderer-start-pos="2586" class="confluence-ssr-app-1tsmohl"> &check; Explicitly state publicly accessible resources</div>
 
 </div>
 
@@ -330,7 +330,7 @@ Description
 
 <div id="15-20-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="15-20" aria-labelledby="15-20-wrapper" name="15-20" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2665" class="confluence-ssr-app-1tsmohl">Create identities/entities/services with bare minimum access by default</div>
+<div data-component="content" data-renderer-start-pos="2665" class="confluence-ssr-app-1tsmohl"> &check; Create identities/entities/services with bare minimum access by default</div>
 
 </div>
 
@@ -340,7 +340,7 @@ Description
 
 <div id="16-21-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="16-21" aria-labelledby="16-21-wrapper" name="16-21" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2738" class="confluence-ssr-app-1tsmohl">D Implement systems that propagates “Separation of Duties” principle with methods like RoleBasedAccessControl(RBAC)</div>
+<div data-component="content" data-renderer-start-pos="2738" class="confluence-ssr-app-1tsmohl"> &check; Implement systems that propagates “Separation of Duties” principle with methods like RoleBasedAccessControl(RBAC)</div>
 
 </div>
 
@@ -350,7 +350,7 @@ Description
 
 <div id="17-22-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="17-22" aria-labelledby="17-22-wrapper" name="17-22" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="2855" class="confluence-ssr-app-1tsmohl">Enable access with “Need to See” approach by explicitly stating resource and access rights (tables name, read, update etc.) Exp: Accessing other customers' data or admin features from a regular account</div>
+<div data-component="content" data-renderer-start-pos="2855" class="confluence-ssr-app-1tsmohl"> &check; Enable access with “Need to See” approach by explicitly stating resource and access rights (tables name, read, update etc.) Exp: Accessing other customers' data or admin features from a regular account</div>
 
 </div>
 
@@ -360,7 +360,7 @@ Description
 
 <div id="18-23-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="18-23" aria-labelledby="18-23-wrapper" name="18-23" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3059" class="confluence-ssr-app-1tsmohl">Remove/disable unnecessary features/services/dependencies/code blocks</div>
+<div data-component="content" data-renderer-start-pos="3059" class="confluence-ssr-app-1tsmohl"> &check; Remove/disable unnecessary features/services/dependencies/code blocks</div>
 
 </div>
 
@@ -370,7 +370,7 @@ Description
 
 <div id="19-24-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="19-24" aria-labelledby="19-24-wrapper" name="19-24" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3130" class="confluence-ssr-app-1tsmohl">Validate if the entity has the right to execute requested operation?(e.g: Can a regular user operate an update for a particular field in which only admin users are granted to)</div>
+<div data-component="content" data-renderer-start-pos="3130" class="confluence-ssr-app-1tsmohl"> &check; Validate if the entity has the right to execute requested operation?(e.g: Can a regular user operate an update for a particular field in which only admin users are granted to)</div>
 
 </div>
 
@@ -380,7 +380,7 @@ Description
 
 <div id="20-25-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="20-25" aria-labelledby="20-25-wrapper" name="20-25" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3307" class="confluence-ssr-app-1tsmohl">Enable multi-factor checks on critical functions</div>
+<div data-component="content" data-renderer-start-pos="3307" class="confluence-ssr-app-1tsmohl"> &check; Enable multi-factor checks on critical functions</div>
 
 </div>
 
@@ -390,7 +390,7 @@ Description
 
 <div id="21-26-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="21-26" aria-labelledby="21-26-wrapper" name="21-26" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3357" class="confluence-ssr-app-1tsmohl">Do not use personal accounts to automate any stuff. Ask teams to provision service accounts</div>
+<div data-component="content" data-renderer-start-pos="3357" class="confluence-ssr-app-1tsmohl"> &check; Do not use personal accounts to automate any stuff. Ask teams to provision service accounts</div>
 
 </div>
 
@@ -420,7 +420,7 @@ Description
 
 <div id="22-27-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="22-27" aria-labelledby="22-27-wrapper" name="22-27" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3473" class="confluence-ssr-app-1tsmohl">If validation fails then reject the input, do not attempt to cast, trim, wraparound the input that might lead to “Undefined Behaviours” within business logic</div>
+<div data-component="content" data-renderer-start-pos="3473" class="confluence-ssr-app-1tsmohl"> &check; If validation fails then reject the input, do not attempt to cast, trim, wraparound the input that might lead to “Undefined Behaviours” within business logic</div>
 
 </div>
 
@@ -430,7 +430,7 @@ Description
 
 <div id="23-28-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="23-28" aria-labelledby="23-28-wrapper" name="23-28" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3632" class="confluence-ssr-app-1tsmohl">Ensure consistency during exception handling by IO disposals (exp:closing connections), re-initialisation of variables to their stable state</div>
+<div data-component="content" data-renderer-start-pos="3632" class="confluence-ssr-app-1tsmohl"> &check; Ensure consistency during exception handling by IO disposals (exp:closing connections), re-initialisation of variables to their stable state</div>
 
 </div>
 
@@ -440,7 +440,7 @@ Description
 
 <div id="24-29-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="24-29" aria-labelledby="24-29-wrapper" name="24-29" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3774" class="confluence-ssr-app-1tsmohl">Ensure consistency during exception handling by IO disposals (exp:closing connections), re-initialisation of variables to their stable state</div>
+<div data-component="content" data-renderer-start-pos="3774" class="confluence-ssr-app-1tsmohl"> &check; Ensure consistency during exception handling by IO disposals (exp:closing connections), re-initialisation of variables to their stable state</div>
 
 </div>
 
@@ -450,7 +450,7 @@ Description
 
 <div id="25-30-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="25-30" aria-labelledby="25-30-wrapper" name="25-30" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="3916" class="confluence-ssr-app-1tsmohl">Do not expose details which might include sensitive information in exception messages to clients during failures</div>
+<div data-component="content" data-renderer-start-pos="3916" class="confluence-ssr-app-1tsmohl"> &check; Do not expose details which might include sensitive information in exception messages to clients during failures</div>
 
 </div>
 
@@ -480,7 +480,7 @@ Description
 
 <div id="26-31-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="26-31" aria-labelledby="26-31-wrapper" name="26-31" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4090" class="confluence-ssr-app-1tsmohl">Act as if the mechanism is publicly known</div>
+<div data-component="content" data-renderer-start-pos="4090" class="confluence-ssr-app-1tsmohl">&check; Act as if the mechanism is publicly known</div>
 
 </div>
 
@@ -490,7 +490,7 @@ Description
 
 <div id="27-32-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="27-32" aria-labelledby="27-32-wrapper" name="27-32" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4133" class="confluence-ssr-app-1tsmohl">Employ proper cryptography instruments when necessary. Exp: To prevent guessable tokens, a token stored in an insecure location with plain text format, cookie without Secure and HttpOnly flags</div>
+<div data-component="content" data-renderer-start-pos="4133" class="confluence-ssr-app-1tsmohl"> &check; Employ proper cryptography instruments when necessary. Exp: To prevent guessable tokens, a token stored in an insecure location with plain text format, cookie without Secure and HttpOnly flags</div>
 
 </div>
 
@@ -500,7 +500,7 @@ Description
 
 <div id="28-33-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="28-33" aria-labelledby="28-33-wrapper" name="28-33" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4327" class="confluence-ssr-app-1tsmohl">Never harcode data into the source code. Sensitive application credentials and tokens should be stored separately from the application’s source code</div>
+<div data-component="content" data-renderer-start-pos="4327" class="confluence-ssr-app-1tsmohl"> &check; Never harcode data into the source code. Sensitive application credentials and tokens should be stored separately from the application’s source code</div>
 
 </div>
 
@@ -530,7 +530,7 @@ Description
 
 <div id="29-34-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="29-34" aria-labelledby="29-34-wrapper" name="29-34" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4498" class="confluence-ssr-app-1tsmohl">Authentication/authorisation events (success and failure)</div>
+<div data-component="content" data-renderer-start-pos="4498" class="confluence-ssr-app-1tsmohl"> &check; Authentication/authorisation events (success and failure)</div>
 
 </div>
 
@@ -540,7 +540,7 @@ Description
 
 <div id="30-35-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="30-35" aria-labelledby="30-35-wrapper" name="30-35" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4557" class="confluence-ssr-app-1tsmohl">CRUD operations on critical resources</div>
+<div data-component="content" data-renderer-start-pos="4557" class="confluence-ssr-app-1tsmohl"> &check; CRUD operations on critical resources</div>
 
 </div>
 
@@ -550,7 +550,7 @@ Description
 
 <div id="31-36-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="31-36" aria-labelledby="31-36-wrapper" name="31-36" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4596" class="confluence-ssr-app-1tsmohl">Logs must include user ID, IP address, valid timestamp, type of action performed, and object of this action</div>
+<div data-component="content" data-renderer-start-pos="4596" class="confluence-ssr-app-1tsmohl"> &check; Logs must include user ID, IP address, valid timestamp, type of action performed, and object of this action</div>
 
 </div>
 
@@ -580,7 +580,7 @@ Description
 
 <div id="32-37-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="32-37" aria-labelledby="32-37-wrapper" name="32-37" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4741" class="confluence-ssr-app-1tsmohl">Align with teams before picking an open source dependency</div>
+<div data-component="content" data-renderer-start-pos="4741" class="confluence-ssr-app-1tsmohl"> &check; Align with teams before picking an open source dependency</div>
 
 </div>
 
@@ -590,7 +590,7 @@ Description
 
 <div id="33-38-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="33-38" aria-labelledby="33-38-wrapper" name="33-38" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4800" class="confluence-ssr-app-1tsmohl">Notify CloudOps and Security teams before introducing any customised containers to the application</div>
+<div data-component="content" data-renderer-start-pos="4800" class="confluence-ssr-app-1tsmohl"> &check; Notify CloudOps and Security teams before introducing any customised containers to the application</div>
 
 </div>
 
@@ -600,7 +600,7 @@ Description
 
 <div id="34-39-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="34-39" aria-labelledby="34-39-wrapper" name="34-39" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="4900" class="confluence-ssr-app-1tsmohl">Regularly review and remove unused dependencies</div>
+<div data-component="content" data-renderer-start-pos="4900" class="confluence-ssr-app-1tsmohl"> &check; Regularly review and remove unused dependencies</div>
 
 </div>
 
