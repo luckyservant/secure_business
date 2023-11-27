@@ -1,47 +1,3 @@
-<div class="ak-renderer-document">
-
-<div class="pm-table-container with-shadow-observer" data-layout="custom" style="width: 760px;">
-
-<div class="confluence-ssr-app-12efcmn">
-
-<div mode="none" data-testid="sticky-table-fixed" class="confluence-ssr-app-1m5x8vp">
-
-<div class="pm-table-container is-sticky with-shadow-observer" data-layout="default" style="width: 760px;">
-
-<div class="pm-table-sticky-wrapper" style="overflow: hidden;">
-
-<table data-testid="renderer-table" data-number-column="false" data-table-width="760"><colgroup><col style="width: 252px;"><col style="width: 362px;"><col style="width: 142px;"></colgroup>
-
-<tbody>
-
-<tr>
-
-<th rowspan="1" colspan="3" colorname="" class="ak-renderer-tableHeader-sortable-column__wrapper" data-colwidth="253,363,143" aria-sort="none">
-
-<div class="ak-renderer-tableHeader-sortable-column">
-
-**Security Controls**
-
-</div>
-
-</th>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="pm-table-wrapper">
-
 <table data-testid="renderer-table" data-number-column="false" data-table-width="760"><colgroup><col style="width: 252px;"><col style="width: 362px;"><col style="width: 142px;"></colgroup>
 
 <tbody>
@@ -661,9 +617,3 @@ Description
 </tbody>
 
 </table>
-
-</div>
-
-</div>
-
-</div>
