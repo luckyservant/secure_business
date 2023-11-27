@@ -50,7 +50,7 @@ Description
 
 <div id="1-0-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="1-0" aria-labelledby="1-0-wrapper" name="1-0" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
 
-<div data-component="content" data-renderer-start-pos="81" class="confluence-ssr-app-1tsmohl"><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">  <label for="vehicle1"> I have a bike</label><br> I have a bike</label>Enable security in the application with little to no configuration changes necessary, and security features available without additional cost from client’s end. Make visible indicators about the potential risks that may result from disabling secure by default settings and make those indicators known by implementing routine nudges that are built into the product <u data-renderer-mark="true">rather than relying on administrators</u></div>
+<div data-component="content" data-renderer-start-pos="81" class="confluence-ssr-app-1tsmohl"> - [ ] Enable security in the application with little to no configuration changes necessary, and security features available without additional cost from client’s end. Make visible indicators about the potential risks that may result from disabling secure by default settings and make those indicators known by implementing routine nudges that are built into the product <u data-renderer-mark="true">rather than relying on administrators</u></div>
 
 </div>
 
