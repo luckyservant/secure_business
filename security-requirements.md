@@ -618,6 +618,60 @@ Description
 
 </tr>
 
+<tr>
+
+<td rowspan="1" colspan="1" colorname="" data-colwidth="253">
+
+**Separation of Duties**
+
+</td>
+
+<td rowspan="1" colspan="1" colorname="" data-colwidth="363">
+
+<div data-task-list-local-id="" class="confluence-ssr-app-1h99aef">
+
+<div data-task-local-id="32">
+
+<div id="32-37-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="32-37" aria-labelledby="32-37-wrapper" name="32-37" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
+
+<div data-component="content" data-renderer-start-pos="4741" class="confluence-ssr-app-1tsmohl"> &check; Linux capabilities are a good example by allowing processes to be granted only the specific privileges they need, reducing the attack surface</div>
+
+</div>
+
+</div>
+
+<div data-task-local-id="33">
+
+<div id="33-38-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="33-38" aria-labelledby="33-38-wrapper" name="33-38" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
+
+<div data-component="content" data-renderer-start-pos="4800" class="confluence-ssr-app-1tsmohl"> &check; Manage scopes rigorously to limit an application's access to a defined set of functionality that an application can request eventually the access token issued to the application will be limited to the scopes granted. </div>
+
+</div>
+
+</div>
+
+<div data-task-local-id="34">
+
+<div id="34-39-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="34-39" aria-labelledby="34-39-wrapper" name="34-39" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
+
+<div data-component="content" data-renderer-start-pos="4900" class="confluence-ssr-app-1tsmohl"> &check; Regularly review and remove unused dependencies</div>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<td rowspan="1" colspan="1" colorname="" data-colwidth="143"></td>
+
+</tr>
+
+
+
+
+
 </tbody>
 
 </table>
