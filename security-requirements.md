@@ -640,17 +640,6 @@ Description
 
 </div>
 
-<div data-task-local-id="34">
-
-<div id="34-39-wrapper" class="confluence-ssr-app-l9nhxs"><span contenteditable="false" class="confluence-ssr-app-7mj7cm"><input id="34-39" aria-labelledby="34-39-wrapper" name="34-39" type="checkbox"><span aria-hidden="true" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #FFFFFF);" class="confluence-ssr-app-snhnyn"></span></span>
-
-<div data-component="content" data-renderer-start-pos="4900" class="confluence-ssr-app-1tsmohl"> &check; Regularly review and remove unused dependencies</div>
-
-</div>
-
-</div>
-
-</div>
 
 </td>
 
