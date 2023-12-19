@@ -1,6 +1,6 @@
 ### IDOR Access Violations Checklist
 
-- [ ] **Horizontal IDOR**
+- [x] **Horizontal IDOR**
     - **Description:** An entity is able to access data of other users at the same privilege level, such as viewing someone else's profile.
     - **Mitigation:** Implement proper authorization checks to ensure users can only access their own data.
     - **Example:** Ensure that when fetching user data, the system verifies the requesting user's identity and only returns data associated with that user.
