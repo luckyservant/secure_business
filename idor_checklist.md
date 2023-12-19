@@ -22,7 +22,7 @@
 
 - [ ] **Mass Assignment IDOR**
     - **Description:** Improper input allows attackers to manipulate object properties, leading to unauthorized data changes.
-    - **Mitigation:** Apply Allowlist to bind input to backend objects. E.g In Spring MVC use binder.setAllowedFields(["userid","password","email"]) to only bind html elements to model object
+    - **Mitigation:** Apply Allowlist to bind input to backend objects. E.g In Spring MVC use **binder.setAllowedFields(["userid","password","email"])** to only bind html elements to model object
     - **Example:** When updating user profile details, only allow specific properties (e.g., name, email) to be modified through the API.
 
 - [ ] **Business Logic IDOR**
