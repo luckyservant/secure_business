@@ -1,4 +1,4 @@
-### IDOR Access Violations Checklist
+### Access Control Checklist
 
 - [ ] **Horizontal IDOR**
     - **Description:** An entity is able to access data of other users at the same privilege level, such as viewing someone else's profile.
