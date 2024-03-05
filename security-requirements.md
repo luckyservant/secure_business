@@ -522,7 +522,7 @@ Description
 
 <td rowspan="1" colspan="1" colorname="" data-colwidth="253">
 
-**Logging**
+**Logging(NonRepudiation)**
 
 </td>
 
